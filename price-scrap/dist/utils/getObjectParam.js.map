@@ -1,0 +1,1 @@
+{"version":3,"file":"getObjectParam.js","sourceRoot":"","sources":["../../src/utils/getObjectParam.ts"],"names":[],"mappings":";;AAAA,MAAM,mBAAmB,GAAG,CAAC,GAAW,EAAE,KAAY,EAAE,EAAE;IAEtD,OAAO,MAAM,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,MAAM,CAAC,IAAI,CAAC,GAAG,CAAC,CAAC,OAAO,CAAC,KAAK,CAAC,CAAC,CAAC;AAC/D,CAAC,CAAA;AAED,kBAAe,mBAAmB,CAAC"}

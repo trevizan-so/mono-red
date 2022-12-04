@@ -1,0 +1,20 @@
+{
+  "name": "price-crawler",
+  "version": "1.0.0",
+  "description": "price crawler for brazilian mtg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc --build && node dist/index.js"
+  },
+  "author": "@trevizan-so",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cheerio": "^0.22.31",
+    "@types/puppeteer": "^7.0.4",
+    "axios": "^1.2.0",
+    "cheerio": "^1.0.0-rc.12",
+    "html-entities": "^2.3.3",
+    "puppeteer": "^19.3.0"
+  }
+}
